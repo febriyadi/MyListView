@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/drawable/ahmad_dahlan.xml" value="0.271" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/drawable/f.xml" value="0.3085" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/drawable/febriyadi.xml" value="0.3085" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/drawable/ic_launcher_background.xml" value="0.271" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_ahmad_dahlan.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_ahmad_yani.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_detail_hero.xml" value="0.25" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_febriyadi.xml" value="0.3374094202898551" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_gatot_soebroto.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_ki_hajar_dewantara.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_mohammad_hatta.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_soedirman.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_soepomo.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_sutomo.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/activity_tan_malaka.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/item_hero.xml" value="0.2921195652173913" />
+        <entry key="..\:/Pemograman Mobile/P1/MyListView/app/src/main/res/layout/item_heroo.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
